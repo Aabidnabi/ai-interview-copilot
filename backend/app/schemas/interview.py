@@ -13,3 +13,4 @@ class InterviewCreateRequest(BaseModel):
 class InterviewCreateResponse(BaseModel):
     session_id: str
     status: str
+    questions: List[str]
