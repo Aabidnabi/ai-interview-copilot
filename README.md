@@ -377,23 +377,6 @@ http://localhost:3000
 
 ---
 
-## Why This Project Matters
-
-This project demonstrates:
-
-- Full-stack software engineering
-- Backend API architecture
-- Frontend/backend integration
-- Scalable service-oriented design
-- AI application architecture
-- Type-safe API development
-- Modern engineering workflows
-- Production-style project organization
-
-This is designed as a portfolio-grade engineering project.
-
----
-
 ## Author
 
 **Aabid Nabi**
